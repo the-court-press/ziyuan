@@ -2,7 +2,7 @@
 
 Taiwan Mandarin character garden. Traditional only. Zhuyin first. Not HSK.
 
-Live: https://julianlee314-hue.github.io/ziyuan/
+Live: https://the-court-press.github.io/ziyuan/
 
 ## Plots
 
